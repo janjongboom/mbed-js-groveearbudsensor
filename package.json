@@ -1,0 +1,9 @@
+{
+    "name": "mbed-js-groveearbudsensor",
+    "description": "Grove Earbud HR sensor for Mbed.js",
+    "author": "Jan Jongboom <janjongboom@gmail.com>",
+    "version": "1.0.0",
+    "scripts": {
+        "postinstall": "echo 'ROOT=.' > .mbed && mbed deploy"
+    }
+}

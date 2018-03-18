@@ -1,0 +1,9 @@
+{
+    "source": [
+        "."
+    ],
+    "includes": [
+        "mbed-js-groveearbudsensor/mbed-js-groveearbudsensor-lib.h"
+	],
+    "name": "groveearbudsensor"
+}
